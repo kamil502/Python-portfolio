@@ -32,6 +32,12 @@ This analysis answers those questions using a VGChartz-style dataset.
 - Top-selling games list (Top 10)
 - Genre ranking by average critic score
 
+## 💡 Key Insights
+- The best-selling console is **PS2**, generating **1027.76** in total sales.
+- The peak sales year was **2008**, reaching **538.11** in total sales.
+- The top-selling game is **Grand Theft Auto V** on **PS3**, with **20.32** in total sales.
+- The highest-rated genre by critics is **Sandbox**, with an average score of **9.2**.
+- 
 ## 📊 Visualizations
 If you export charts, add them into an `images/` folder and link them here:
 - `images/top10_consoles.png`
