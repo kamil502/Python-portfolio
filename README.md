@@ -44,8 +44,8 @@ If you export charts, add them into an `images/` folder and link them here:
 - `images/sales_by_year.png`
 
 Example:
-![Top 10 Consoles](images/top10_consoles.png)
-![Sales by Year](images/sales_by_year.png)
+![Top 10 Consoles](top10_consoles.png)
+![Sales by Year](sales_by_year.png)
 
 ## ▶️ How to run
 1. Install:
